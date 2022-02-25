@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries concerning the disbanding of the army humbly offered to publick consideration : which may serve for an answer to Mr. A, B, C, D, E, F, G's argument.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60829</idno>
+            <idno type="STC">Wing S4560</idno>
+            <idno type="STC">ESTC R33845</idno>
+            <idno type="EEBO-CITATION">13577873</idno>
+            <idno type="OCLC">ocm 13577873</idno>
+            <idno type="VID">100467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1049:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries concerning the disbanding of the army humbly offered to publick consideration : which may serve for an answer to Mr. A, B, C, D, E, F, G's argument.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100467:1"/>
+            <!-- PDF PAGE 36 -->
+            <p>SOME QUERIES Concerning the DISBANDING OF THE ARMY: Humbly offered to <hi>Publick Conſideration.</hi>
+            </p>
+            <p>Which may ſerve for an Anſwer to Mr. <hi>A, B, C, D, E, F, G</hi>'s Argument.</p>
+            <p>Printed in the Year 1698.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100467:2"/>
+            <!-- PDF PAGE 37 -->
+            <p>IN putting any Nation in a Poſture of Defence, Men muſt conſider the Power of its Neighbours, eſpecially thoſe who are moſt to be feared; and that, in<g ref="char:EOLhyphen"/>ſtead of being Friends, they may become Enemies, not<g ref="char:EOLhyphen"/>withſtanding Treaties to provide for a Perpetual Peace; for ſo all Treaties of Peace are called, though of late they have been found but of a very ſhort Continuance; and that they will be our Enemies when ever there is any Advantage to be got by it, is certain, according to the Maxims of the World. This is the Foundation of the following <hi>Queries,</hi> and is (I think) an unde<g ref="char:EOLhyphen"/>niable <hi>Poſtulatum;</hi> ſome of them have not been urged ſo expreſly, and ſo home to the Point, as they might have been, (which would give them a much plainer Force and Evidence) for fear of writing any thing which might give Offence either one way or t'other; but there is enough ſaid to lead the Underſtanding and Impartial Reader into what may be wanting.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:100467:2"/>
+            <!-- PDF PAGE 37 -->
+            <head>
+               <hi>QUERIES</hi> concerning the Diſ<g ref="char:EOLhyphen"/>banding of the Army, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">1. WHether 'tis not as much the Intereſt of a Powerful Neighbour (both for the Preſer<g ref="char:EOLhyphen"/>vation of that Monarchy in the formidable Greatneſs 'tis at preſent, and for the Propagation of the pretend<g ref="char:EOLhyphen"/>ed Catholick Faith,) to endeavour to ſubdue <hi>England</hi> by the Re-eſtabliſhment of the late King <hi>James,</hi> now in time of Peace, as it was during the late War?</p>
+            <p n="2">2. Whether HE be not more able to do at preſent in Peace, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han he was during the War; that he has no Diverſion abroad for his Forces, and that conſequently he can bend them all upon us?</p>
+            <p n="3">3. How long the Treaties of the <hi>Pyrenees, Aix la Chapelle</hi> and <hi>Nim guen,</hi> and the 20 years Truce con<g ref="char:EOLhyphen"/>cluded at <hi>Ratisbone</hi> after the taking of <hi>Luxembourg,</hi> have laſted? And whether 'tis not ſo much the Ex<g ref="char:EOLhyphen"/>preſneſs of Articles and Conditions that makes a Peace laſting and durable, as the putting our ſelves in ſuch a Poſture of Defence, as to give no Advan<g ref="char:EOLhyphen"/>tage to thoſe who would be willing to break it?</p>
+            <p n="4">4. Whether 'tis not fit to conſider, in the preſent Juncture of our Affairs, the Caſe between <hi>Spain</hi> and <hi>Portugal</hi> after the <hi>Pyrenean</hi> Treaty? And whether, if we do not look to our ſelves, it may not become our own Caſe? <hi>For what has been, may be again?</hi>
+            </p>
+            <p n="5">5. Whether HE being at Peace with the reſt of <hi>Europe,</hi> and in a Condition to bend all his For<g ref="char:EOLhyphen"/>ces upon us both by Land and Sea, and his
+<pb n="4" facs="tcp:100467:3"/>
+               <!-- PDF PAGE 38 -->Fleet being in the good Condition 'tis at preſent, we can put our ſelves effectually in a Poſture of Defence without Land-Forces?</p>
+            <p n="6">6. Whether if HE Arms at once at <hi>Dunkirk, Breſt,</hi> and the <hi>Hogue,</hi> (which Place, as 'tis re<g ref="char:EOLhyphen"/>ported, Monſieur <hi>de Vauban</hi> has been to viſit, in or<g ref="char:EOLhyphen"/>der to fortifie it and make it a Royal Harbour,) our Fleet can hinder his Forces from coming upon us from every one or any one of theſe Places?</p>
+            <p n="7">7. Whether we have not found HIM very ſe<g ref="char:EOLhyphen"/>cret and expedite in his Deſigns? And whether HE has not his Seamen more at command than we have ours? And conſequently, whether HE may not put out all his Fleet, or a competent Squa<g ref="char:EOLhyphen"/>dron, in leſs time than we can?</p>
+            <p n="8">8. Whether we may not be invaded during the vacancy of a Parliament, (which of courſe muſt be diſſolved every three years, and this the laſt year of this preſent Parliament,) when His Majeſty can have no Funds ready for the Raiſing, Cloathing, <hi>&amp;c.</hi> of an Army, nor even for the putting out of our Fleet ſoon enough for our Defence? And whether the Prince of <hi>Conti</hi>'s preſent Pretenſions upon <hi>Poland</hi> will not give our Neighbours a fair and plauſible Pretext to embark Land-Forces the very next Summer?</p>
+            <p>From the Premiſſes, I ask Mr. <hi>A, B, C, D, E, F, G,</hi>
+               <list>
+                  <item>1. Whether the preſent Government, our Religion, Laws, Liberties, <hi>&amp;c.</hi> conſidering our preſent Circum<g ref="char:EOLhyphen"/>ſtances, be not in an evident Danger of being Inva<g ref="char:EOLhyphen"/>ded, or of an Attempt towards it without Land-Forces for our Defence? And whether if HE, or the late King, ever land in <hi>England</hi> with an Army, we ſhall not be Conquer'd, without one to oppoſe them? And whether, under ſuch Circumſtances, we are not
+<pb n="5" facs="tcp:100467:3"/>
+                     <!-- PDF PAGE 38 -->in a greater Danger of loſing our Liberty of Parlia<g ref="char:EOLhyphen"/>ments, and Rights, Privileges, <hi>&amp;c.</hi> than in having a ſufficient Number of Land-Forces for our Defence?</item>
+                  <item>2. Whether of two Evils the leaſt, and the leaſt likely to happen, is not to be choſen, when we muſt of neceſſity expoſe our ſelves to one or t'other? And whether 'tis not more certain, conſidering all things, that HE will Invade us, or attempt to Invade us, if we have no Land-Forces for our Defence, than that the Land-Forces we may provide for that purpoſe will Invade our Privileges and Liberties?</item>
+                  <item>3. Whether <hi>Salus Populi,</hi> or the publick Safety of a People, be not the Fundamental Law of ours, and of all Governments? And, if we are in danger of being invaded by our Neighbours, and if invaded, of being conquered by them, unleſs we have an Army as well as a Fleet for our Defence; whether 'tis then reaſonable, juſt or prudent to object, That 'tis incon<g ref="char:EOLhyphen"/>ſiſtent with the Nature and Laws of a free Govern<g ref="char:EOLhyphen"/>ment to have an Army in time of Peace?</item>
+                  <item>4. Whether, during this Peace, we can compound with our Neighbours, that whenever they attempt to invade us, they ſhall only bring their Arrier-ban along with them? If not,</item>
+                  <item>5. Whether the Militia, (which was at firſt a very uſeful Inſtitution when there were hardly any Stand<g ref="char:EOLhyphen"/>ing Regular Troops in the World, and which may be ſtill uſeful againſt a ſudden riſing of Irregular Forces,) can ever be made Defenſible againſt Regu<g ref="char:EOLhyphen"/>lar, Veteran, Well-diſciplined Troops, if they land upon us? Or whether any Perſon, that knows what Armies are or can do, be of this Opinion?</item>
+                  <item>6. Whether if the Militia can be made Service<g ref="char:EOLhyphen"/>able, to this effect, it will not be an incomparably
+<pb n="6" facs="tcp:100467:4"/>
+                     <!-- PDF PAGE 39 -->greater Charge and Burden to the Nation, than a ſufficient Number of Land-Forces, which may be maintained for our Defence?</item>
+                  <item>7. Whether the propoſing to make the Militia Serviceable, be not an acknowledging, that 'tis at preſent Unſerviceable for our Defence? And if ſo, then whether 'tis <hi>ſafe</hi> (conſidering the preſent Jun<g ref="char:EOLhyphen"/>cture of Affairs) to diſarm, at leaſt till it be made Serviceable?</item>
+                  <item>8. Whether if the Militia can be made Serviceable for our effectual Defence, if invaded, and if Men will go to the Charges mentioned to make it ſo, this can be done without ſubjecting the Militia to Milita<g ref="char:EOLhyphen"/>ry Diſcipline and Orders? And whether this can be done without intruſting the King with more Military Power than our Author deſires to ſee him have, or than he could have with only a competent Number of Diſciplined Regular Forces?</item>
+                  <item>9. Whether in all other reſpects 'twill not be worſe for the Country to have the Militia up in every County ſo often as muſt then be required, beſides the Regular Exerciſing of every private Company or Troop, (without which it cannot be imagined to make it Serviceable, if with it,) than to have a ſuffi<g ref="char:EOLhyphen"/>cient Number of Regular Old Troops under ſuch Regulations as may be eſtabliſhed in Parliament?</item>
+                  <item>10. Whether Land-Forces raiſed and maintained by Parliamentary Funds, and increaſed, diminiſhed, or continu'd every Seſſion, according as a preſent Con<g ref="char:EOLhyphen"/>juncture of Affairs in <hi>Chriſtendom</hi> ſhall then (or from time to time may) require, can be called <hi>A Standing Army,</hi> and inconſiſtent with the Nature and Laws of <hi>A Free Government?</hi>
+                  </item>
+                  <item>11. Whether the Horſe, as may be thought con<g ref="char:EOLhyphen"/>venient
+<pb n="7" facs="tcp:100467:4"/>
+                     <!-- PDF PAGE 39 -->for our Defence, (in the manner now ſpecifi'd) may not, whilſt our Neighbours are quiet, be employ'd for the Guard and Security of Highways, and conſe<g ref="char:EOLhyphen"/>quently for the Eaſe and Encouragement of our Inland Trade?</item>
+                  <item>12. Whether the Foot may not then be imployed in the Fortifying of our Sea-Coaſts, in the repairing of Highways, and other publick uſeful Works, with a ſmall addition then to their Pay; which Works cannot be done otherwiſe without a vaſt Expence; and not in the laudable Occupations our Author is pleas'd to compliment the Army with.</item>
+                  <item>13. Whether the Parliament may not find Me<g ref="char:EOLhyphen"/>thods for the keeping of Land Forces neceſſary for our Defence, ſo as to be no Burthen to Inns, or any other publick Houſes, unleſs upon Marches?</item>
+                  <item>14. Whether, if we have a great Fleet at Sea, (as we muſt of neceſſity without Land Forces) it can effectually ſhelter us from an Invaſion by our Neigh<g ref="char:EOLhyphen"/>bours from any of their Sea-Ports whatſoever, not<g ref="char:EOLhyphen"/>withſtanding they ſhould Arm at once at <hi>D—k,</hi> in the Channel, and Weſtern Ocean.</item>
+                  <item>15. Whether we can keep ſuch a Fleet without Preſſing Seamen, and forcing them out of Merchant Ships to Man it?</item>
+                  <item>16. Whether this can be done without bringing a great prejudice to the Trade and Commerce of the Nation, and conſequently increaſing the Trade and Wealth of our Neighbours?</item>
+                  <item>17. Whether this will not be a fair and juſt pre<g ref="char:EOLhyphen"/>text for HIM to bring the main of his Forces upon his Frontier Sea-Coaſts towards <hi>England,</hi> and conſequently of projecting and effecting our In<g ref="char:EOLhyphen"/>vaſion with more Eaſe and Secreſie? And whether
+<pb n="8" facs="tcp:100467:5"/>
+                     <!-- PDF PAGE 40 -->we can have great Fleets at Sea without giving a Jealouſie to thoſe who will only ſeek for an oppor<g ref="char:EOLhyphen"/>tunity to break with us?</item>
+                  <item>18. Whether the Admiralty may not prove as bad in time of Peace as our Author ſuppoſes it (I hope injuriouſly) to have been in time of War? Whether there may not happen Treachery, beſides many Ac<g ref="char:EOLhyphen"/>cidents of Sea, Wind and Weather, (which 'tis rea<g ref="char:EOLhyphen"/>ſonable to expect and provide againſt) which may ſpoil all the Precautions that can be taken in relation to our Sea Defence? And whether His Majeſty did not come clear from the <hi>Maeſe</hi> to <hi>Torbay,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing that my Lord <hi>Dartmouth</hi>'s Fleet was then in a Readineſs, which is much a greater diſtance than HE has to come upon us?</item>
+                  <item>19. Whether theſe Dangers, to which we muſt ex<g ref="char:EOLhyphen"/>poſe our ſelves without an Army, may not cauſe Fears and Jealouſies among the trading part of the Na<g ref="char:EOLhyphen"/>tion, and the People in general, who thereupon may be apprehenſive of an Invaſion? Which conſe<g ref="char:EOLhyphen"/>quently may tend to the crying down the publick Credit of the Government, and thus bring a general Loſs and Detriment upon all Trade and Trading.</item>
+               </list>
+            </p>
+            <p>In Relation to the Army I ask Mr. <hi>A, B, C, D, E, F, G.</hi>
+            </p>
+            <list>
+               <item>1. Whether, as 'tis neceſſary, notwithſtanding the Peace, (conſidering the preſent Conjuncture of Af<g ref="char:EOLhyphen"/>fairs,) to provide for our Defence, we are not in a bet<g ref="char:EOLhyphen"/>ter poſture of Defence with an Army than we can be without one? and if ſo, then conſequently, whether a competent Army for our Defence will not be a means to make the Peace more laſting and durable? And whether from thence we may not expect a bet<g ref="char:EOLhyphen"/>ter ſupport from Allies abroad, againſt the exorbitant Power of HIM?</item>
+               <item>
+                  <pb n="9" facs="tcp:100467:5"/>
+                  <!-- PDF PAGE 40 -->
+2. Whether the having no Army for our Defence may not expoſe His Majeſty's Perſon to the Attempts of Wicked Men, who have already taken hold of ſuch a Conjuncture to put ſuch a horrible Deſign on Foot, when we had but few Land Forces in <hi>England,</hi> and this without any regard to the greatneſs of our Fleet then at home?</item>
+               <item>3. Whether the Army has not been very Inſtru<g ref="char:EOLhyphen"/>mental in procuring to us the preſent Peaceable En<g ref="char:EOLhyphen"/>joyment of our Religion, Laws, and Liberties, by the Glorious Reduction of <hi>Ireland;</hi> and in the whole courſe of the War in <hi>Flanders,</hi> where they have not only put a ſtop to the French King's Carier, but taken one of the moſt impregnable Places of <hi>Eu<g ref="char:EOLhyphen"/>rope;</hi> and where, in other Wars, without us, his Pro<g ref="char:EOLhyphen"/>greſſes went on like a Flood and an Inundation?</item>
+               <item>4. Whether this be the only Service of this kind perform'd by our Land Forces for the ſecurity of the Proteſtant Religion, and of the Rights and Privi<g ref="char:EOLhyphen"/>ledges of the People of <hi>England?</hi> But may be our Author owes them no thanks for ſome of theſe Ser<g ref="char:EOLhyphen"/>vices, and 'tis hard to know, whether for the Services of 1660. or thoſe of 1688.</item>
+               <item>5. Whether the Army has not for the two years laſt paſt, not to mention other times, ſerv'd the King and Government (notwithſtanding the great Neceſſities to which all the Officers have been re<g ref="char:EOLhyphen"/>duc'd among Strangers for want of Pay) with an inviolable Fidelity and Conſtancy? Of which Fide<g ref="char:EOLhyphen"/>lity and Conſtancy, His Majeſty has given a Royal and moſt ſolemn Teſtimony and Acknowledgement in His moſt Gracious Speech at the opening of the laſt Seſſions of Parliament.</item>
+               <item>
+                  <pb n="10" facs="tcp:100467:6"/>
+                  <!-- PDF PAGE 41 -->
+6. Whether our Author does believe in his Con<g ref="char:EOLhyphen"/>ſcience, or any Man in his Wits can believe, that this Army (if kept in Pay for our Defence) will bring in the late King, as he extravagantly advances it in his Argument?</item>
+               <item>7. Whether His Majeſty in the whole Courſe of His Life has acted like a Man of Arbitrary Princi<g ref="char:EOLhyphen"/>ples? Whether on the contrary, He has not refus'd the Soveraignty of a Powerful Republick, when (may be) he had a fair opportunity at home, but certainly the offer of a Powerful Aſſiſtance from a<g ref="char:EOLhyphen"/>broad, and that even a whole Province had freely choſe him for their Prince?</item>
+               <item>8. Whether ſuch a King can make any other uſe of ſuch an Army as may be neceſſary for our De<g ref="char:EOLhyphen"/>fence, than for the Safety and Protection of His Peo<g ref="char:EOLhyphen"/>ple? Or if he would, Whether 'twould be ſafe, or even poſſible for him to attempt it, conſidering the preſent Conjuncture of Affairs both at home and abroad?</item>
+               <item>9. Whether, Conſidering the late King <hi>James,</hi> and the pretended Prince of <hi>Wales</hi> after him, 's Claim to the Crown of <hi>England,</hi> and their Support from Abroad upon a favourable occaſion, it be even feaſible, for an Army rais'd for our Defence, to offer any Vio<g ref="char:EOLhyphen"/>lence to our Rights and Liberties under the preſent Government, without bringing manifeſt Ruin upon it and themſelves too? From whence I offer, by way of Concluſion, to thoſe who may be given to change amongſt us, That no Change can happen in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (arguing from Human Probabilities, according as Affairs are at preſent in <hi>Europe,</hi> and likely to con<g ref="char:EOLhyphen"/>tinue for many yeats) from the preſent Government, but for Tyranny and Popery.</item>
+               <item>
+                  <pb n="11" facs="tcp:100467:6"/>
+                  <!-- PDF PAGE 41 -->
+10. Whether the Land Forces we have had Quar<g ref="char:EOLhyphen"/>tered in <hi>England</hi> during this War, have anſwered the Bug-bear Character given <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>a Standing Army</hi> by our Author? Whether on the contrary, they have not behav'd themſelves with all Submiſſion and Obe<g ref="char:EOLhyphen"/>dience to the Laws, and Honour and Reſpect and Zeal for the Conſtitution of Parliaments? And whe<g ref="char:EOLhyphen"/>ther we had not in the year 1696. above 17000 Men Quartered in <hi>England</hi> beſides Officers, and at other times more or leſs? Whether the Troops Quartered in <hi>England</hi> during the late War, have en<g ref="char:EOLhyphen"/>deavour'd in the leaſt to Byaſs or offer any manner of Violence to the Freedom of Elections? And whe<g ref="char:EOLhyphen"/>ther, conſidering what has been ſaid in the prece<g ref="char:EOLhyphen"/>dent Query, it be not more difficult for the Army to offer ſuch a Violence now, than during the late War? For <hi>France</hi> would always profit of thoſe Di<g ref="char:EOLhyphen"/>ſtractions which ſuch Attempts would certainly cauſe in <hi>England.</hi>
+               </item>
+               <item>11. Whether, upon Caſhiering of the Army (which has gain'd ſo much Honour and Credit to the Eng<g ref="char:EOLhyphen"/>liſh Nation abroad, where they have paſs'd for the braveſt and the fineſt Troops in the World) we can propoſe to our ſelves to have ſuch another at any time, if threatned with an Invaſion, at a month or two's warning at the moſt; or even, one then fit for our Service?</item>
+               <item>12. Whether this will not be a Temptation to good and ſerviceable Officers and Soldiers (unleſs their Zeal and Fidelity to the King and Government carries it againſt their Intereſt) to go where they may find Rewards and Advancements ſuitable to their Profeſſion; and whether 'twill not make Officers in another War, careleſs and back<g ref="char:EOLhyphen"/>ward
+<pb n="12" facs="tcp:100467:7" rendition="simple:additions"/>
+                  <!-- PDF PAGE 42 -->in our Service to prolong a War? For the Ex<g ref="char:EOLhyphen"/>perience of near forty years laſt paſt tells us, That Treaties have not been of a long continuance.</item>
+               <item>13. Whether 'twill not be the Intereſt of our Neighbours to Invite, by good Rewards and En<g ref="char:EOLhyphen"/>couragements, our beſt Caſhier'd Officers and Sol<g ref="char:EOLhyphen"/>diers? and if it is their Intereſt, Whether they will not do it?</item>
+               <item>14. Whether, conſidering this, and the late King's preſent Forces<note n="*" place="margin">They are his, if his upon any Occaſion.</note>, and that our Neighbours Ships may aſſiſt him under our own Colours, we do not run a Riſque of being Invaded and Conquer'd, and Popery and Tyranny introduc'd by our own ſelves, if we have not a competent Army for our Defence?</item>
+               <item>Laſtly, I ſhall ask Mr. <hi>A, B, C, D, E, F, G,</hi> in the groſs of his Book, Whether all the Jacobites of the Land, or any others who may wiſh for, or ima<g ref="char:EOLhyphen"/>gine the alteration of the preſent Government, be not of his Opinion in this Point? But God forbid I ſhould ſay, that all thoſe who are of his Opinion are ſuch Perſons; no doubt a great many good Men, and well-meaning Perſons are of his mind, and who, I hope, (when they are ſenſible of the fatal Conſe<g ref="char:EOLhyphen"/>quences of it) will be of another Sentiment; and if our Author himſelf be amongſt theſe well-meaning Men, I doubt not but he will forgive me freely, when nothing but my Zeal, Sincerity, and Affection for our Safety, has put me upon this Work.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
